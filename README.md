@@ -27,7 +27,7 @@ From here on out you are encouraged to split your program up into the approprate
 
 11. Create a for-loop that prints the numbers 1-100
 
-12. Use the build in java utility for random numbers to print a random number from 0 - 2000.
+12. Use the built in java utility for random numbers to print a random number from 0 - 2000.
 
 13. Create a while loop that loops until a random number between 0 and 10 is equal to 5
 
