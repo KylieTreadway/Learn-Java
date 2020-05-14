@@ -26,6 +26,5 @@ public class Main {
             System.out.println("This zodiacs rudeness level is:" + zodiacs.getRudenessLevel());
 
         }
-
     }
 }
