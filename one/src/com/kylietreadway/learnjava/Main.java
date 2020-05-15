@@ -25,6 +25,12 @@ public class Main {
             zodiacs.greet();
             System.out.println("This zodiacs rudeness level is:" + zodiacs.getRudenessLevel());
 
+        // Using this for separation purposes only!! //
+
+            int a;
+            a = 1;
+            System.out.println(a);
+            System.out.println("a size = 4 bytes");
         }
     }
 }
